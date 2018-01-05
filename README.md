@@ -1,7 +1,7 @@
 # IntelCEOHoldings
 This repo is an exploration of the Intel CEO's holdings over time through SEC Form 4 filings; this is particularly relevant in the aftermath of [Meltdown and Spectre][meltdown].
 
-Data was taken from the SEC's [EDGAR filing tool] and the date of Google's report to Intel was taken from the [Project Zero blog entry][ProjectZero].
+Data was taken from the SEC's [EDGAR filing tool][EDGAR] and the date of Google's report to Intel was taken from the [Project Zero blog entry][ProjectZero].
 
 Below is the plot of Brian Krzanich's holdings over time, starting at the beginning of 2012.  The plot was created by considering all Form-4 filings made by Krzanich, then summing the non-derivative purchases and sales over time.  See the Jupyter notebook for more information.
 
